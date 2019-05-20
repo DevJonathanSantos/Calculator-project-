@@ -18,13 +18,9 @@ namespace ConsoleApp2
 
 
 
-            Console.WriteLine("calculadora");
-            Console.ReadLine();
-
 
             do
             {
-
                 calculadora1.Operacao = Operador();
                 calculadora1.Valor1 = Valor("primeiro");
                 calculadora1.Valor2 = Valor("segundo");
