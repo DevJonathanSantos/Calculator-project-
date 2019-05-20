@@ -1,6 +1,6 @@
 ﻿using ConsoleApp1;
 using System;
-
+//Danilo nub
 namespace ConsoleApp2
 {
     class Program
