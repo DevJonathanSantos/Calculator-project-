@@ -75,11 +75,7 @@ namespace ConsoleApp2
 
             do
             {
-                Console.WriteLine("Escolha a opção para escolher o calculo");
-                Console.WriteLine("1- para escolher adição");
-                Console.WriteLine("2- para escolher subtração");
-                Console.WriteLine("3- para escolher divisão");
-                Console.WriteLine("4- para escolher multiplicação");
+                
 
                 try
                 {
