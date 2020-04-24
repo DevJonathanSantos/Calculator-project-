@@ -18,7 +18,7 @@
             this.Executar(Operacao.Subtrair, this.Valor1, this.Valor2);
 
             return this.Resultado;
-       
+
         }
         public int dividir()
         {
@@ -64,7 +64,6 @@
                         break;
                     }
             }
-
         }
     }
 }
